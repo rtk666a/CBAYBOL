@@ -1,3 +1,12 @@
 .container{
     text-align: center;
+    border-color:tomato;
+    border-style: solid;
+    margin-top : 15%;
 }
+
+body{
+    background-image: url(loginBG.jpg);
+}
+
+
