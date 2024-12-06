@@ -2,11 +2,26 @@
     text-align: center;
     border-color:tomato;
     border-style: solid;
-    margin-top : 15%;
+    margin-top : 10%;
 }
 
 body{
     background-image: url(loginBG.jpg);
 }
+header{
+    text-align: center;
+    margin-top: 5%;
+}
 
+#headerH1{
+    color:orange;
+    font-family: "Times New Roman", Times, serif;
+}
 
+.username{
+    margin: 0.5%;
+}
+
+.Password{
+    margin: 0.5%;
+}
