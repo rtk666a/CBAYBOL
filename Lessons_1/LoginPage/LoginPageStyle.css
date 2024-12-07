@@ -1,12 +1,20 @@
 .container{
     text-align: center;
-    border-color:tomato;
+    border-color:#eee;
     border-style: solid;
-    margin-top : 10%;
+    margin-top : 40px;
+    width: max-content;
+    padding: 24px;
+    border-radius: 6px; 
+    background-color: #fff;   
 }
 
 body{
     background-image: url(loginBG.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
 }
 header{
     text-align: center;
@@ -16,12 +24,38 @@ header{
 #headerH1{
     color:orange;
     font-family: "Times New Roman", Times, serif;
+    
 }
 
-.username{
-    margin: 0.5%;
+.username,.Password{
+   display: flex;
+    flex-direction: column;
+    align-items: flex-start;  
 }
 
-.Password{
-    margin: 0.5%;
+.username label,.Password label{
+    margin: 4px;
+ }
+
+.username input,.Password input{
+    width: 265px;
+}
+
+.robot{
+    display: flex;
+    align-items: center;
+    
+}
+
+.robot label{
+    height: max-content;
+}
+
+.buttons{
+    display:flex;
+    gap: 8px;
+}
+
+.buttons input{
+    flex:1 1 50%;
 }
