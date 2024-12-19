@@ -1,0 +1,160 @@
+h1 {
+    font-size: 10em;
+} 
+body{
+    background-color: #4915F8;
+}
+
+
+
+.base{
+    width:1480px;
+    margin-inline: auto;
+}
+
+.base p{
+    color: white;
+    margin: 10px;
+}
+
+.PBaseContent{
+    flex-basis: 600px;
+}
+
+.baseContent img{
+    width: 100%; 
+}
+
+@media screen and (max-width :1600px) {
+    .base{
+        width:1260px;
+    }
+}
+
+@media screen and (max-width :1340px) {
+    .base{
+        width:1080px;
+    }
+} 
+
+@media screen and (max-width :1200px) {
+    .base{
+        width:860px;
+    }
+} 
+
+@media screen and (max-width :860px) {
+    .base{
+        width:100%;
+    }
+}
+
+.topHeader{
+    display: flex;
+    margin-bottom: 80px;
+
+}
+
+.topHeader div{
+    flex:1;
+}
+.ButtonsLogin{
+    display: flex;
+}
+
+.ButtonsLogin div{
+    justify-content: center;
+
+}
+
+.ButtonsLogin .SIn{
+    text-align: right;
+    margin-right: 8px;
+}
+
+.ButtonsLogin .TB{
+    
+}
+
+.ButtonsLogin .TB input{
+    padding: 10px;
+    border-radius: 20px;
+    width: 130px;
+    background-color: #eb8541;
+    color: white;
+}
+
+.baseContent .PBaseContent{
+    margin-top: 70px;
+}
+
+.baseContent{
+    display: flex;
+    flex:1;
+}
+
+.baseContent div{
+    margin-top: 30px;
+}
+
+.baseContent .PBaseContent input{
+    background: #eb8541;
+    padding: 30px;
+    border-radius: 50px;
+    color: white;
+
+}
+
+
+.Pcontent{
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+
+
+
+.bottomContent{
+    display: flex;
+    flex:1;
+    width: 1200px;
+    justify-content: center;
+}
+
+.bottomContent div{
+   margin: 14px;
+}
+
+
+.bottomContent img{
+    width: 100%;
+}
+
+.bottomContent{
+   justify-content: center;
+   display: flex;
+}
+.bottomContent div{
+    flex-basis: 550px;
+
+}
+
+.bottomContent .content1,.content2{
+    height: 400px;
+}
+
+.content1 p{
+    padding: 5px;
+}
+
+.content2 p{
+    padding: 20px;
+}
+
+.p4{
+    border: white;
+}
+
+
+
+
