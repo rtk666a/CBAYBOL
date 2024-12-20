@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11eff069-cca7-406e-beb6-ef8362438ee7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise_1/Mian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_1/Exercise_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_1/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Mian.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
