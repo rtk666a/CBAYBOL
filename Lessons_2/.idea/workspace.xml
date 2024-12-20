@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11eff069-cca7-406e-beb6-ef8362438ee7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assigment_2/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assigment_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons_2/Exercise_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons_2/Exercise_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment_2/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment_2/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons_2/Assigment_2/GameFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons_2/Assigment_2/GameFrame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CBAYBOL/Lessons_2",
+    "last_opened_file_path": "D:/CBAYBOL",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
